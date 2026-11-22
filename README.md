@@ -1,5 +1,5 @@
 # FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
-
+## akash g 212224100004
 ## AIM
 To use **Autopsy Digital Forensics Tool** to retrieve deleted files from a disk image.
 
@@ -72,6 +72,9 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## OUTPUT:
 Recovered Deleted File List and Details
+<img width="1677" height="998" alt="image" src="https://github.com/user-attachments/assets/b514aec8-a8d0-4b5d-86d3-306c7ac5c071" />
+<img width="1221" height="708" alt="image" src="https://github.com/user-attachments/assets/95282f8e-4292-4844-81b1-0ee65797f4de" />
+<img width="1677" height="998" alt="image" src="https://github.com/user-attachments/assets/62f4e514-2f14-4c88-8ef1-00e992acf757" />
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
